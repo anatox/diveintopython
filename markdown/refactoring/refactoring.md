@@ -108,7 +108,7 @@ There is one other performance optimization that I want to try. Given
 the complexity of regular expression syntax, it should come as no
 surprise that there is frequently more than one way to write the same
 expression. After some discussion about this module on
-[comp.lang.python](http://groups.google.com/groups?group=comp.lang.python),
+[comp.lang.python](https://groups.google.com/forum/#!forum/comp.lang.python),
 someone suggested that I try using the `{m,n}` syntax for the optional
 repeated characters.
 

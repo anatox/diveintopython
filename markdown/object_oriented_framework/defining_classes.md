@@ -128,16 +128,16 @@ thing, because I promise it will trip you up:
 ### Further Reading on Python Classes
 
 -   [*Learning to
-    Program*](http://www.freenetpages.co.uk/hp/alan.gauld/ "Python book for first-time programmers")
+    Program*](http://www.alan-g.me.uk/ "Python book for first-time programmers")
     has a gentler [introduction to
-    classes](http://www.freenetpages.co.uk/hp/alan.gauld/tutclass.htm).
+    classes](http://www.alan-g.me.uk/tutor/tutclass.htm).
 -   [*How to Think Like a Computer
-    Scientist*](http://www.ibiblio.org/obp/thinkCSpy/ "Python book for computer science majors")
+    Scientist*](http://openbookproject.net/thinkcs/ "Python book for computer science majors")
     shows how to [use classes to model compound
-    datatypes](http://www.ibiblio.org/obp/thinkCSpy/chap12.htm).
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+    datatypes](http://openbookproject.net/thinkcs/python/english2e/ch13.html).
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     has an in-depth look at [classes, namespaces, and
-    inheritance](http://www.python.org/doc/current/tut/node11.html).
+    inheritance](https://docs.python.org/2/tutorial/classes.html).
 -   [Python Knowledge
     Base](http://www.faqts.com/knowledge-base/index.phtml/fid/199/)
     answers [common questions about

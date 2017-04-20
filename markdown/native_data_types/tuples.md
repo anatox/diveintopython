@@ -85,16 +85,16 @@ Tuples can be converted into lists, and vice-versa. The built-in `tuple` functio
 ### Further Reading on Tuples
 
 -   [*How to Think Like a Computer
-    Scientist*](http://www.ibiblio.org/obp/thinkCSpy/ "Python book for computer science majors")
+    Scientist*](http://openbookproject.net/thinkcs/ "Python book for computer science majors")
     teaches about tuples and shows how to [concatenate
-    tuples](http://www.ibiblio.org/obp/thinkCSpy/chap10.htm).
+    tuples](http://openbookproject.net/thinkcs/python/english2e/ch12.html).
 -   [Python Knowledge
     Base](http://www.faqts.com/knowledge-base/index.phtml/fid/199/)
     shows how to [sort a
     tuple](http://www.faqts.com/knowledge-base/view.phtml/aid/4553/fid/587).
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     shows how to [define a tuple with one
-    element](http://www.python.org/doc/current/tut/node7.html#SECTION007300000000000000000).
+    element](https://docs.python.org/2/tutorial/datastructures.html#tuples-and-sequences).
 
   
 

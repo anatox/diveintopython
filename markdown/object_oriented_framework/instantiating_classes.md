@@ -80,12 +80,12 @@ management and let Python clean up after you.
 
 ### Further Reading on Garbage Collection
 
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     summarizes [built-in attributes like
-    `__class__`](http://www.python.org/doc/current/lib/specialattrs.html).
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+    `__class__`](https://docs.python.org/2/library/stdtypes.html#special-attributes).
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     documents the [`gc`
-    module](http://www.python.org/doc/current/lib/module-gc.html), which
+    module](https://docs.python.org/2/library/gc.html), which
     gives you low-level control over Python's garbage collection.
 
   

@@ -92,38 +92,38 @@ Pilgrim](mailto:josh@djazee.com)
 Download Python
 ---------------
 
--   [ActivePython](http://www.activestate.com/Products/ActivePython/)
-    (freeware, Windows)
+-   [ActivePython CE](https://www.activestate.com/activepython/)
+    (freeware, all platforms)
 -   [IDLE](http://www.python.org/ftp/python/) (open source, Windows)
--   [Komodo](http://www.activestate.com/Products/Komodo/) (commercial,
-    Windows)
+-   [Komodo](https://www.activestate.com/komodo-ide/) (commercial,
+    all platforms)
 -   [RPMs](http://www.python.org/ftp/python/2.3.3/rpms/) (open source,
     Linux)
--   [Source code](http://www.python.org/ftp/python/) (all platforms)
+-   [Source code](https://www.python.org/downloads/source/) (all platforms)
 -   [python-mode](http://www.python.org/emacs/python-mode/) for
-    [Emacs](http://www.gnu.org/software/emacs/)
+    [Emacs](https://www.gnu.org/software/emacs/)
 -   [Jack Jansen's
     binaries](http://homepages.cwi.nl/~jack/macpython/download.html)
     (open source, Mac OS, Mac OS X)
 -   [Fink](http://people.ucsc.edu/~jacobkm/tkinter_osx_howto.html) (open
     source, Mac OS X)
 -   [Jython](http://www.jython.org/download.html) (open source, Java)
--   [more platforms](http://www.python.org/download/)
+-   [more platforms](https://www.python.org/downloads/)
 
 Learn Python
 ------------
 
 -   [*Learning to
-    Program*](http://www.freenetpages.co.uk/hp/alan.gauld/ "Python book for first-time programmers")
+    Program*](http://www.alan-g.me.uk/ "Python book for first-time programmers")
 -   [*How to Think Like a Computer
-    Scientist*](http://www.ibiblio.org/catalog/items/show/3775 "Python book for computer science majors")
+    Scientist*](http://openbookproject.net/thinkcs/python/english2e/ "Python book for computer science majors")
 -   [*Thinking in
     Python*](http://www.mindview.net/Books/TIPython "advanced book on design patterns in Python")
 -   [Introductions](http://www.python.org/doc/Intros.html "Python articles for beginners and experts")
 -   [O'Reilly Python
     Center](http://python.oreilly.com/ "books for sale, plus online articles")
 -   [Non-English
-    resources](http://www.python.org/doc/NonEnglish.html "tutorials in over a dozen languages")
+    resources](http://wiki.python.org/moin/Languages "tutorials in over a dozen languages")
 -   [more
     tutorials](http://directory.google.com/Top/Computers/Programming/Languages/Python/FAQs,_Help,_and_Tutorials/)
 
@@ -131,19 +131,19 @@ Python reference
 ----------------
 
 -   [Official
-    documentation](http://www.python.org/doc/current/ "official Python documentation")
+    documentation](https://docs.python.org/2/ "official Python documentation")
 -   [Quick
-    Reference](http://www.brunningonline.net/simon/python/PQR.html "all essential Python syntax, on one page")
+    Reference](http://rgruet.free.fr/ "all essential Python syntax, on one page")
 
 Python community
 ----------------
 
--   [Python.org](http://www.python.org/ "Python language home page")
--   [comp.lang.python](http://groups.google.com/groups?group=comp.lang.python "lively discussion of all things Python")
--   [c.l.p.announce](http://groups.google.com/groups?group=comp.lang.python.announce "announcements of new and updated software, books, and other resources")
--   [Tutor](http://mail.python.org/mailman/listinfo/tutor "mailing list for beginners")
+-   [Python.org](https://www.python.org/ "Python language home page")
+-   [comp.lang.python](https://groups.google.com/forum/#!forum/comp.lang.python "lively discussion of all things Python")
+-   [c.l.p.announce](https://groups.google.com/forum/#!forum/comp.lang.python.announce "announcements of new and updated software, books, and other resources")
+-   [Tutor](https://mail.python.org/mailman/listinfo/tutor "mailing list for beginners")
 -   [Python mailing
-    lists](http://mail.python.org/mailman/listinfo "email discussions of specific Python topics")
+    lists](https://mail.python.org/mailman/listinfo "email discussions of specific Python topics")
 -   [more
     links](http://directory.google.com/Top/Computers/Programming/Languages/Python/)
 

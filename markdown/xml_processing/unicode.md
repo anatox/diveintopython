@@ -203,7 +203,7 @@ Python is ready.
     has some more examples of how to use Python's unicode functions,
     including how to force Python to coerce unicode into ASCII even when
     it doesn't really want to.
--   [PEP 263](http://www.python.org/peps/pep-0263.html) goes into more
+-   [PEP 263](https://www.python.org/dev/peps/pep-0263/) goes into more
     detail about how and when to define a character encoding in your
     `.py` files.
 

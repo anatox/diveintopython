@@ -18,7 +18,7 @@ Regular expressions are a powerful and standardized way of searching,
 replacing, and parsing text with complex patterns of characters. If
 you've used regular expressions in other languages (like Perl), the
 syntax will be very familiar, and you get by just reading the summary of
-the [`re` module](http://www.python.org/doc/current/lib/module-re.html)
+the [`re` module](https://docs.python.org/2/library/re.html)
 to get an overview of the available functions and their arguments.
 
 7.1. Diving In

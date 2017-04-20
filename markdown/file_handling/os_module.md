@@ -156,11 +156,11 @@ familiar with from working on the command line.
     Base](http://www.faqts.com/knowledge-base/index.phtml/fid/199/)
     answers [questions about the `os`
     module](http://www.faqts.com/knowledge-base/index.phtml/fid/240).
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     documents the
-    [`os`](http://www.python.org/doc/current/lib/module-os.html) module
+    [`os`](https://docs.python.org/2/library/os.html) module
     and the
-    [`os.path`](http://www.python.org/doc/current/lib/module-os.path.html)
+    [`os.path`](https://docs.python.org/2/library/os.path.html)
     module.
 
   

@@ -49,9 +49,9 @@ In Python, all special methods (like [`__setitem__`](special_class_methods.html#
 
 ### Further Reading on Private Functions
 
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     discusses the inner workings of [private
-    variables](http://www.python.org/doc/current/tut/node11.html#SECTION0011600000000000000000).
+    variables](https://docs.python.org/2/tutorial/classes.html#private-variables-and-class-local-references).
 
   
 

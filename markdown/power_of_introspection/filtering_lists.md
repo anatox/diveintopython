@@ -80,9 +80,9 @@ in to every module.
 
 ### Further Reading on Filtering Lists
 
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     discusses another way to filter lists [using the built-in `filter`
-    function](http://www.python.org/doc/current/tut/node7.html#SECTION007130000000000000000).
+    function](https://docs.python.org/2/tutorial/datastructures.html#functional-programming-tools).
 
   
 

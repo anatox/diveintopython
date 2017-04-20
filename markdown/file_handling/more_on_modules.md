@@ -102,12 +102,12 @@ portion of the code.
 
 ### Further Reading on Modules
 
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     discusses exactly [when and how default arguments are
-    evaluated](http://www.python.org/doc/current/tut/node6.html#SECTION006710000000000000000).
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+    evaluated](https://docs.python.org/2/tutorial/controlflow.html#default-argument-values).
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     documents the
-    [`sys`](http://www.python.org/doc/current/lib/module-sys.html)
+    [`sys`](https://docs.python.org/2/library/sys.html)
     module.
 
   

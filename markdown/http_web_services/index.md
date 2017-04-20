@@ -56,7 +56,7 @@ Examples of pure XML-over-HTTP web services:
 
 -   [Amazon API](http://www.amazon.com/webservices) allows you to
     retrieve product information from the Amazon.com online store.
--   [National Weather Service](http://www.nws.noaa.gov/alerts/) (United
+-   [National Weather Service](https://alerts.weather.gov/) (United
     States) and [Hong Kong Observatory](http://demo.xml.weather.gov.hk/)
     (Hong Kong) offer weather alerts as a web service.
 -   [Atom API](http://atomenabled.org/) for managing web-based content.
@@ -178,7 +178,7 @@ used in this book.
 
 -   Paul Prescod believes that [pure HTTP web services are the future of
     the
-    Internet](http://webservices.xml.com/pub/a/ws/2002/02/06/rest.html).
+    Internet](https://www.xml.com/pub/a/ws/2002/02/06/rest.html).
 
   
 

@@ -72,9 +72,9 @@ convert to and from Roman numerals?
 
 ### Further reading
 
--   [This site](http://www.wilkiecollins.demon.co.uk/roman/front.htm)
+-   [This site](http://www.paullewis.co.uk/roman/front.htm)
     has more on Roman numerals, including a fascinating
-    [history](http://www.wilkiecollins.demon.co.uk/roman/intro.htm) of
+    [history](http://www.paullewis.co.uk/roman/howtheywork.htm) of
     how Romans and other civilizations really used them (short answer:
     haphazardly and inconsistently).
 

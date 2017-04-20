@@ -35,15 +35,12 @@ the function.
 Many Python IDEs use the `doc string` to provide context-sensitive documentation, so that when you type a function name, its `doc string` appears as a tooltip. This can be incredibly helpful, but it's only as good as the `doc string`s you write. 
 
 ### Further Reading on Documenting Functions
+-   [PEP 257](https://www.python.org/dev/peps/pep-0257/) defines
+    `doc string` conventions and discusses how to write a good `doc string`.
 
--   [PEP 257](http://www.python.org/peps/pep-0257.html) defines
-    `doc string` conventions.
--   [*Python Style
-    Guide*](http://www.python.org/doc/essays/styleguide.html) discusses
-    how to write a good `doc string`.
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     discusses conventions for [spacing in
-    `doc string`s](http://www.python.org/doc/current/tut/node6.html#SECTION006750000000000000000).
+    `doc string`s](https://docs.python.org/2/tutorial/controlflow.html#documentation-strings).
 
   
 

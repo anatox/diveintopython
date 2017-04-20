@@ -252,22 +252,22 @@ These rules still apply in Python 2.2.1 and beyond, but now you can also use an 
 ### Further Reading on Lists
 
 -   [*How to Think Like a Computer
-    Scientist*](http://www.ibiblio.org/obp/thinkCSpy/ "Python book for computer science majors")
+    Scientist*](http://openbookproject.net/thinkcs/ "Python book for computer science majors")
     teaches about lists and makes an important point about [passing
     lists as function
-    arguments](http://www.ibiblio.org/obp/thinkCSpy/chap08.htm).
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+    arguments](http://openbookproject.net/thinkcs/python/english2e/ch09.html).
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     shows how to [use lists as stacks and
-    queues](http://www.python.org/doc/current/tut/node7.html#SECTION007110000000000000000).
+    queues](https://docs.python.org/2/tutorial/datastructures.html#using-lists-as-stacks).
 -   [Python Knowledge
     Base](http://www.faqts.com/knowledge-base/index.phtml/fid/199/)
     answers [common questions about
     lists](http://www.faqts.com/knowledge-base/index.phtml/fid/534) and
     has a lot of [example code using
     lists](http://www.faqts.com/knowledge-base/index.phtml/fid/540).
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     summarizes [all the list
-    methods](http://www.python.org/doc/current/lib/typesseq-mutable.html).
+    methods](https://docs.python.org/2/library/stdtypes.html#mutable-sequence-types).
 
   
 

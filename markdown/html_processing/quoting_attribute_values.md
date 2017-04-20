@@ -4,7 +4,7 @@
 -----------------------------
 
 A common question on
-[comp.lang.python](http://groups.google.com/groups?group=comp.lang.python)
+[comp.lang.python](https://groups.google.com/forum/#!forum/comp.lang.python)
 is “I have a bunch of HTML documents with unquoted attribute values, and
 I want to properly quote them all. How can I do
 this?”<sup>[[4](#ftn.d0e21764)]</sup> (This is generally precipitated by

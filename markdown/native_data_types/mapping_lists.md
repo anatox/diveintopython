@@ -82,12 +82,12 @@ a string that contains both a key and its associated value from the
 
 ### Further Reading on List Comprehensions
 
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     discusses another way to map lists [using the built-in `map`
-    function](http://www.python.org/doc/current/tut/node7.html#SECTION007130000000000000000).
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+    function](https://docs.python.org/2/tutorial/datastructures.html#functional-programming-tools).
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     shows how to [do nested list
-    comprehensions](http://www.python.org/doc/current/tut/node7.html#SECTION007140000000000000000).
+    comprehensions](https://docs.python.org/2/tutorial/datastructures.html#nested-list-comprehensions).
 
   
 

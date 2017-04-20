@@ -179,11 +179,11 @@ Python comes with excellent reference manuals, which you should peruse thoroughl
 
 ### Further Reading on Built-In Functions
 
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     documents [all the built-in
-    functions](http://www.python.org/doc/current/lib/built-in-funcs.html)
+    functions](https://docs.python.org/2/library/functions.html)
     and [all the built-in
-    exceptions](http://www.python.org/doc/current/lib/module-exceptions.html).
+    exceptions](https://docs.python.org/2/library/exceptions.html).
 
   
 

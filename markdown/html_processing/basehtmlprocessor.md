@@ -90,11 +90,11 @@ The HTML specification requires that all non-HTML (like client-side JavaScript) 
 
 ### Further reading
 
--   [W3C](http://www.w3.org/) discusses [character and entity
-    references](http://www.w3.org/TR/REC-html40/charset.html#entities).
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+-   [W3C](https://www.w3.org/) discusses [character and entity
+    references](https://www.w3.org/TR/REC-html40/charset.html#entities).
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     confirms your suspicions that [the `htmlentitydefs`
-    module](http://www.python.org/doc/current/lib/module-htmlentitydefs.html)
+    module](https://docs.python.org/2/library/htmllib.html#module-htmlentitydefs)
     is exactly what it sounds like.
 
 ### Footnotes

@@ -54,9 +54,9 @@ The only thing you need to do to call a function is specify a value (somehow) fo
 
 ### Further Reading on Optional Arguments
 
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     discusses exactly [when and how default arguments are
-    evaluated](http://www.python.org/doc/current/tut/node6.html#SECTION006710000000000000000),
+    evaluated](https://docs.python.org/2/tutorial/controlflow.html#default-argument-values),
     which matters when the default value is a list or an expression with
     side effects.
 

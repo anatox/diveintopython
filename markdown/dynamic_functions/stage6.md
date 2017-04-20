@@ -125,12 +125,12 @@ create any other functions.
 
 ### Further reading
 
--   [PEP 255](http://www.python.org/peps/pep-0255.html) defines
+-   [PEP 255](https://www.python.org/dev/peps/pep-0255/) defines
     generators.
 -   [Python
-    Cookbook](http://www.activestate.com/ASPN/Python/Cookbook/ "growing archive of annotated code samples")
+    Cookbook](http://code.activestate.com/recipes/langs/python/ "growing archive of annotated code samples")
     has [many more examples of
-    generators](http://www.google.com/search?q=generators+cookbook+site:aspn.activestate.com).
+    generators](http://code.activestate.com/recipes/langs/python/tags/generator/).
 
   
 

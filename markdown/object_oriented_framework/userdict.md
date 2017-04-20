@@ -92,11 +92,11 @@ the `UserDict` version.
 
 ### Further Reading on `UserDict`
 
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     documents the [`UserDict`
-    module](http://www.python.org/doc/current/lib/module-UserDict.html)
+    module](https://docs.python.org/2/library/userdict.html)
     and the [`copy`
-    module](http://www.python.org/doc/current/lib/module-copy.html).
+    module](https://docs.python.org/2/library/copy.html).
 
   
 

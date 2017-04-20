@@ -162,21 +162,21 @@ keys are case-sensitive.
 ### Further Reading on Dictionaries
 
 -   [*How to Think Like a Computer
-    Scientist*](http://www.ibiblio.org/obp/thinkCSpy/ "Python book for computer science majors")
+    Scientist*](http://openbookproject.net/thinkcs/ "Python book for computer science majors")
     teaches about dictionaries and shows how to [use dictionaries to
     model sparse
-    matrices](http://www.ibiblio.org/obp/thinkCSpy/chap10.htm).
+    matrices](http://openbookproject.net/thinkcs/python/english2e/ch12.html).
 -   [Python Knowledge
     Base](http://www.faqts.com/knowledge-base/index.phtml/fid/199/) has
     a lot of [example code using
     dictionaries](http://www.faqts.com/knowledge-base/index.phtml/fid/541).
 -   [Python
-    Cookbook](http://www.activestate.com/ASPN/Python/Cookbook/ "growing archive of annotated code samples")
+    Cookbook](http://code.activestate.com/recipes/langs/python/ "growing archive of annotated code samples")
     discusses [how to sort the values of a dictionary by
-    key](http://www.activestate.com/ASPN/Python/Cookbook/Recipe/52306).
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+    key](http://code.activestate.com/recipes/52306/).
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     summarizes [all the dictionary
-    methods](http://www.python.org/doc/current/lib/typesmapping.html).
+    methods](https://docs.python.org/2/library/stdtypes.html#mapping-types-dict).
 
   
 

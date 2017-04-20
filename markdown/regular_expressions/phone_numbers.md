@@ -213,11 +213,11 @@ you forget why you made the choices you made.
 ### Further Reading on Regular Expressions
 
 -   [Regular Expression
-    HOWTO](http://py-howto.sourceforge.net/regex/regex.html) teaches
+    HOWTO](https://docs.python.org/dev/howto/regex.html) teaches
     about regular expressions and how to use them in Python.
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     summarizes the [`re`
-    module](http://www.python.org/doc/current/lib/module-re.html).
+    module](https://docs.python.org/2/library/re.html).
 
   
 

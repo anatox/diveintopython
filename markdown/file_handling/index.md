@@ -164,25 +164,25 @@ platforms, but this code encapsulates all of those differences.
 
 ### Further Reading on Exception Handling
 
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     discusses [defining and raising your own exceptions, and handling
     multiple exceptions at
-    once](http://www.python.org/doc/current/tut/node10.html#SECTION0010400000000000000000).
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+    once](https://docs.python.org/2/tutorial/errors.html#raising-exceptions).
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     summarizes [all the built-in
-    exceptions](http://www.python.org/doc/current/lib/module-exceptions.html).
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+    exceptions](https://docs.python.org/2/library/exceptions.html).
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     documents the
-    [getpass](http://www.python.org/doc/current/lib/module-getpass.html)
+    [getpass](https://docs.python.org/2/library/getpass.html)
     module.
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     documents the [`traceback`
-    module](http://www.python.org/doc/current/lib/module-traceback.html),
+    module](https://docs.python.org/2/library/traceback.html),
     which provides low-level access to exception attributes after an
     exception is raised.
--   [*Python Reference Manual*](http://www.python.org/doc/current/ref/)
+-   [*Python Reference Manual*](https://docs.python.org/2/reference/)
     discusses the inner workings of the [`try...except`
-    block](http://www.python.org/doc/current/ref/try.html).
+    block](https://docs.python.org/2/reference/compound_stmts.html#the-try-statement).
 
   
 

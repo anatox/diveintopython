@@ -183,20 +183,20 @@ the first time" logic. Just open it and start writing.
 
 ### Further Reading on File Handling
 
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     discusses reading and writing files, including how to [read a file
     one line at a time into a
-    list](http://www.python.org/doc/current/tut/node9.html#SECTION009210000000000000000).
--   [eff-bot](http://www.effbot.org/guides/) discusses efficiency and
+    list](https://docs.python.org/2/tutorial/inputoutput.html#methods-of-file-objects).
+-   [eff-bot](http://effbot.org/zone/) discusses efficiency and
     performance of [various ways of reading a
-    file](http://www.effbot.org/guides/readline-performance.htm).
+    file](http://effbot.org/zone/readline-performance.htm).
 -   [Python Knowledge
     Base](http://www.faqts.com/knowledge-base/index.phtml/fid/199/)
     answers [common questions about
     files](http://www.faqts.com/knowledge-base/index.phtml/fid/552).
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     summarizes [all the file object
-    methods](http://www.python.org/doc/current/lib/bltin-file-objects.html).
+    methods](https://docs.python.org/2/library/stdtypes.html#file-objects).
 
   
 

@@ -77,15 +77,15 @@ string into a list. And of course there is, and it's called `split`.
     strings](http://www.faqts.com/knowledge-base/index.phtml/fid/480)
     and has a lot of [example code using
     strings](http://www.faqts.com/knowledge-base/index.phtml/fid/539).
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     summarizes [all the string
-    methods](http://www.python.org/doc/current/lib/string-methods.html).
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+    methods](https://docs.python.org/2/library/stdtypes.html#string-methods).
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     documents the [`string`
-    module](http://www.python.org/doc/current/lib/module-string.html).
--   [*The Whole Python FAQ*](http://www.python.org/doc/FAQ.html)
+    module](https://docs.python.org/2/library/string.html).
+-   [*The Whole Python FAQ*](https://docs.python.org/2/faq/)
     explains [why `join` is a string
-    method](http://www.python.org/cgi-bin/faqw.py?query=4.96&querytype=simple&casefold=yes&req=search)
+    method](https://docs.python.org/2/faq/design.html#why-is-join-a-string-method-instead-of-a-list-or-tuple-method)
     instead of a list method.
 
 ### 3.7.1. Historical Note on String Methods

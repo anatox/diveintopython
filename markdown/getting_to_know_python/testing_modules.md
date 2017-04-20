@@ -43,9 +43,9 @@ On MacPython, there is an additional step to make the `if` `__name__` trick work
 
 ### Further Reading on Importing Modules
 
--   [*Python Reference Manual*](http://www.python.org/doc/current/ref/)
+-   [*Python Reference Manual*](https://docs.python.org/2/reference/)
     discusses the low-level details of [importing
-    modules](http://www.python.org/doc/current/ref/import.html).
+    modules](https://docs.python.org/2/reference/simple_stmts.html#the-import-statement).
 
   
 

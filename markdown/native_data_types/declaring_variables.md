@@ -121,15 +121,15 @@ module, which you'll discuss in [Chapter
 
 ### Further Reading on Variables
 
--   [*Python Reference Manual*](http://www.python.org/doc/current/ref/)
+-   [*Python Reference Manual*](https://docs.python.org/2/reference/)
     shows examples of [when you can skip the line continuation
-    character](http://www.python.org/doc/current/ref/implicit-joining.html)
+    character](https://docs.python.org/2/reference/lexical_analysis.html#implicit-line-joining)
     and [when you need to use
-    it](http://www.python.org/doc/current/ref/explicit-joining.html).
+    it](https://docs.python.org/2/reference/lexical_analysis.html#explicit-line-joining).
 -   [*How to Think Like a Computer
-    Scientist*](http://www.ibiblio.org/obp/thinkCSpy/ "Python book for computer science majors")
+    Scientist*](http://openbookproject.net/thinkcs/ "Python book for computer science majors")
     shows how to use multi-variable assignment to [swap the values of
-    two variables](http://www.ibiblio.org/obp/thinkCSpy/chap09.htm).
+    two variables](http://openbookproject.net/thinkcs/python/english2e/ch11.html).
 
   
 

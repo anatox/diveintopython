@@ -106,14 +106,14 @@ those nasty oh-I-thought-those-arguments-were-reversed kinds of errors.
     Base](http://www.faqts.com/knowledge-base/index.phtml/fid/199/)
     discusses using `lambda` to [call functions
     indirectly](http://www.faqts.com/knowledge-base/view.phtml/aid/6081/fid/241).
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     shows how to [access outside variables from inside a `lambda`
-    function](http://www.python.org/doc/current/tut/node6.html#SECTION006740000000000000000).
+    function](https://docs.python.org/2/tutorial/controlflow.html#unpacking-argument-lists).
     ([PEP 227](http://python.sourceforge.net/peps/pep-0227.html)
     explains how this will change in future versions of Python.)
--   [*The Whole Python FAQ*](http://www.python.org/doc/FAQ.html) has
+-   [*The Whole Python FAQ*](https://docs.python.org/2/faq/) has
     examples of [obfuscated one-liners using
-    `lambda`](http://www.python.org/cgi-bin/faqw.py?query=4.15&querytype=simple&casefold=yes&req=search).
+    `lambda`](https://docs.python.org/2/faq/programming.html#is-it-possible-to-write-obfuscated-one-liners-in-python).
 
   
 

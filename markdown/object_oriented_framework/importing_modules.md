@@ -72,12 +72,12 @@ Use `from module import *` sparingly, because it makes it difficult to determine
 
 ### Further Reading on Module Importing Techniques
 
--   [eff-bot](http://www.effbot.org/guides/) has more to say on
+-   [eff-bot](http://effbot.org/zone/) has more to say on
     [`import module` *vs.*
-    `from module import`](http://www.effbot.org/guides/import-confusion.htm).
--   [*Python Tutorial*](http://www.python.org/doc/current/tut/tut.html)
+    `from module import`](http://effbot.org/zone/import-confusion.htm).
+-   [*Python Tutorial*](https://docs.python.org/2/tutorial/)
     discusses advanced import techniques, including
-    [`from module import *`](http://www.python.org/doc/current/tut/node8.html#SECTION008410000000000000000).
+    [`from module import *`](https://docs.python.org/2/tutorial/modules.html#importing-from-a-package).
 
   
 

@@ -160,20 +160,20 @@ used in this book.
     [why test cases are stored
     separately](http://pyunit.sourceforge.net/pyunit.html#WHERE) from
     the code they test.
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     summarizes the
-    [`unittest`](http://www.python.org/doc/current/lib/module-unittest.html)
+    [`unittest`](https://docs.python.org/2/library/unittest.html)
     module.
 -   [ExtremeProgramming.org](http://www.extremeprogramming.org/)
     discusses [why you should write unit
     tests](http://www.extremeprogramming.org/rules/unittests.html).
--   [The Portland Pattern Repository](http://www.c2.com/cgi/wiki) has an
+-   [The Portland Pattern Repository](http://c2.com/ppr/) has an
     ongoing discussion of [unit
-    tests](http://www.c2.com/cgi/wiki?UnitTests), including a [standard
-    definition](http://www.c2.com/cgi/wiki?StandardDefinitionOfUnitTest),
+    tests](http://wiki.c2.com/?UnitTest), including a [standard
+    definition](http://web.archive.org/web/20160806014603/http://c2.com/cgi/wiki?StandardDefinitionOfUnitTest),
     why you should [code unit tests
-    first](http://www.c2.com/cgi/wiki?CodeUnitTestFirst), and several
-    in-depth [case studies](http://www.c2.com/cgi/wiki?UnitTestTrial).
+    first](http://wiki.c2.com/?CodeUnitTestFirst), and several
+    in-depth [case studies](http://wiki.c2.com/?UnitTestTrial).
 
   
 

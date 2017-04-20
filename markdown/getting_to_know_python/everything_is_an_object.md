@@ -102,13 +102,13 @@ objects.
 
 ### Further Reading on Objects
 
--   [*Python Reference Manual*](http://www.python.org/doc/current/ref/)
+-   [*Python Reference Manual*](https://docs.python.org/2/reference/)
     explains exactly what it means to say that [everything in Python is
-    an object](http://www.python.org/doc/current/ref/objects.html),
+    an object](https://docs.python.org/2/reference/datamodel.html#objects-values-and-types),
     because some people are pedantic and like to discuss this sort of
     thing at great length.
--   [eff-bot](http://www.effbot.org/guides/) summarizes [Python
-    objects](http://www.effbot.org/guides/python-objects.htm).
+-   [eff-bot](http://effbot.org/zone/) summarizes [Python
+    objects](http://effbot.org/zone/python-objects.htm).
 
   
 

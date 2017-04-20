@@ -80,16 +80,16 @@ format many different types of values.
 
 ### Further Reading on String Formatting
 
--   [*Python Library Reference*](http://www.python.org/doc/current/lib/)
+-   [*Python Library Reference*](https://docs.python.org/2/library/)
     summarizes [all the string formatting format
-    characters](http://www.python.org/doc/current/lib/typesseq-strings.html).
+    characters](https://docs.python.org/2/library/stdtypes.html#string-formatting-operations).
 -   [*Effective AWK
-    Programming*](http://www-gnats.gnu.org:8080/cgi-bin/info2www?(gawk)Top)
+    Programming*](https://www.gnu.org/software/gawk/manual/)
     discusses [all the format
-    characters](http://www-gnats.gnu.org:8080/cgi-bin/info2www?(gawk)Control+Letters)
+    characters](https://www.gnu.org/software/gawk/manual/html_node/Control-Letters.html#Control-Letter)
     and advanced string formatting techniques like [specifying width,
     precision, and
-    zero-padding](http://www-gnats.gnu.org:8080/cgi-bin/info2www?(gawk)Format+Modifiers).
+    zero-padding](https://www.gnu.org/software/gawk/manual/html_node/Format-Modifiers.html#Format-Modifiers).
 
   
 

@@ -65,9 +65,9 @@ chapters.
 
 ### Further Reading on Special Class Methods
 
--   [*Python Reference Manual*](http://www.python.org/doc/current/ref/)
+-   [*Python Reference Manual*](https://docs.python.org/2/reference/)
     documents [all the special class
-    methods](http://www.python.org/doc/current/ref/specialnames.html).
+    methods](https://docs.python.org/2/reference/datamodel.html#special-method-names).
 
   
 

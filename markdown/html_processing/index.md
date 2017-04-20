@@ -19,7 +19,7 @@ Chapter 8. HTML Processing
 --------------
 
 I often see questions on
-[comp.lang.python](http://groups.google.com/groups?group=comp.lang.python)
+[comp.lang.python](https://groups.google.com/forum/#!forum/comp.lang.python)
 like “How can I list all the [headers images links] in my HTML
 document?” “How do I parse/translate/munge the text of my HTML document
 but leave the tags alone?” “How can I add/remove/quote attributes of all

@@ -121,9 +121,9 @@ statements are not allowed, such as in `lambda` functions.
 ### Further Reading on the `and-or` Trick
 
 -   [Python
-    Cookbook](http://www.activestate.com/ASPN/Python/Cookbook/ "growing archive of annotated code samples")
+    Cookbook](http://code.activestate.com/recipes/langs/python/ "growing archive of annotated code samples")
     discusses [alternatives to the `and-or`
-    trick](http://www.activestate.com/ASPN/Python/Cookbook/Recipe/52310).
+    trick](http://code.activestate.com/recipes/52310/).
 
   
 

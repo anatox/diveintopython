@@ -116,7 +116,7 @@ Here is the sample output for a search for the word “python”.
 
 -   [http://www.xmethods.net/](http://www.xmethods.net/) is a repository
     of public access SOAP web services.
--   The [SOAP specification](http://www.w3.org/TR/soap/) is surprisingly
+-   The [SOAP specification](https://www.w3.org/TR/soap/) is surprisingly
     readable, if you like that sort of thing.
 
   
